@@ -1,1 +1,1 @@
-# rentomojo-assignment
+# Browsing-games
